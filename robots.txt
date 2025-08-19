@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://knitcraft.tech/sitemap.xml
